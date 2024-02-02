@@ -1,6 +1,6 @@
 # Project Title
 
-A Full stack Todo application for Internship assignment
+A Fetch Data project for Internship assignment
 
 ## Contributing
 
@@ -15,7 +15,7 @@ Please adhere to this project's `code of conduct`.
 Clone the project
 
 ```bash
-  git clone https://github.com/samrat222/Todo-app.git
+  git clone https://github.com/samrat222/Data-fetch.git
 ```
 
 Go to the project directory in the Backend
