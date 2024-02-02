@@ -9,7 +9,7 @@ const Dashboard = () => {
             try {
                 // Fetch data from your Node.js server
                 const response = await axios.get(
-                    "http://localhost:3000/api/v1/get-data"
+                    "https://fetch-data-l4ls.onrender.com/api/v1/get-data"
                 );
                 setCryptoData(response.data);
                 // console.log("Crypto Data:", response.data);
